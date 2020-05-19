@@ -4,6 +4,8 @@
 
   Just for personal use.
 
+  [![Last Commit](https://img.shields.io/github/last-commit/stevejkang/emoji-for-readme.svg)](https://github.com/stevejkang/emoji-for-readme/commits)
+
 ## Usage
 
     https://raw.githubusercontent.com/[username]/[repository]/[branch]/[?directory]/[filename].png
